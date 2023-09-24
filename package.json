@@ -1,0 +1,16 @@
+{
+  "name": "sls-devagram-typescript",
+  "version": "1.0.0",
+  "description": "Codigo de estudo do curso de Arquitetura ServerLess Devaria 2023",
+  "main": "handler.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tiago Nogueira",
+  "devDependencies": {
+    "serverless-plugin-typescript": "^2.1.5",
+    "typescript": "^5.2.2"
+  }
+}
