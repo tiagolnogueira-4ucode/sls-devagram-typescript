@@ -10,6 +10,7 @@
   "keywords": [],
   "author": "Tiago Nogueira",
   "devDependencies": {
+    "@types/aws-lambda": "^8.10.122",
     "serverless-plugin-typescript": "^2.1.5",
     "typescript": "^5.2.2"
   }
